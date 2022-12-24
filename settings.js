@@ -6,7 +6,7 @@ global.simBotname = "Anya" //⚠️ ᴏɴʟʏ ᴜsᴇ ɴᴏʀᴍᴀʟ ғᴏɴᴛ
 
              //--------Owner & vcard--------\\
              global.botname = "Queen Anya" 
-             global.ownernumber = ['918811074852'] // Owner number //
+             global.ownernumber = ['918669414293'] // Owner number //
              global.vcardowner = ['918811074852'] // vcard owner number //
              global.ownername = "3.69_Pika" // Owner name //
              global.ytname = "YT: ONYXPIKA" // Yt chanel name //
